@@ -1,1 +1,3 @@
 git config --global https.proxy socks5://127.0.0.1:7897 代理
+git push上传
+git commit -m "////"添加备注
